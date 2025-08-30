@@ -10,8 +10,8 @@
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-FFD700?style=for-the-badge&logoColor=black)](https://linkedin.com/in/girish-ingale)
 [![Email](https://img.shields.io/badge/📧_Email-FFD700?style=for-the-badge&logoColor=black)](mailto:girishingale9764@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=girish-inc&style=for-the-badge&color=gold)
-![Total Repositories](https://img.shields.io/badge/Total%20Repos-5+-FFD700?style=for-the-badge&logo=github)
+![Profile Views](https://komarev.com/ghpvc/?username=girish-inc&style=for-the-badge&color=blue)
+![Total Repositories](https://img.shields.io/badge/Total%20Repos-40+-FFD700?style=for-the-badge&logo=github)
 
 </div>
 
