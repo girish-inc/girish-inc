@@ -159,7 +159,7 @@
 
 <div align="center">
   
-![Snake animation](https://raw.githubusercontent.com/girish-inc/girish-inc/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/girish-inc/girish-inc/output/github-contribution-grid-snake-golden.svg)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,22,20&height=180&section=footer&text=Let's%20Build%20Something%20Amazing!&fontSize=42&fontColor=FFD700&animation=twinkling&fontAlignY=65" />
 
