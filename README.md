@@ -6,7 +6,7 @@
 
 <div align="center">
   
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FFD700?style=for-the-badge&logoColor=black)](https://github.com/girish-inc/portfolia)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FFD700?style=for-the-badge&logoColor=black)](https://girish-ingale-inc.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-FFD700?style=for-the-badge&logoColor=black)](https://linkedin.com/in/girish-ingale)
 [![Email](https://img.shields.io/badge/📧_Email-FFD700?style=for-the-badge&logoColor=black)](mailto:girishingale9764@gmail.com)
 
