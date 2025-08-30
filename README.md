@@ -10,9 +10,8 @@
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-FFD700?style=for-the-badge&logoColor=black)](https://linkedin.com/in/girish-ingale)
 [![Email](https://img.shields.io/badge/📧_Email-FFD700?style=for-the-badge&logoColor=black)](mailto:girishingale9764@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=girish-inc&color=gold&style=for-the-badge&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/girish-inc?color=FFD700&style=for-the-badge&logo=github&label=Followers)
-![Stars](https://img.shields.io/github/stars/girish-inc?color=FFD700&style=for-the-badge&logo=github&label=Total+Stars)
+![Profile Views](https://komarev.com/ghpvc/?username=girish-inc&style=for-the-badge&color=gold)
+![Total Repositories](https://img.shields.io/badge/Total%20Repos-5+-FFD700?style=for-the-badge&logo=github)
 
 </div>
 
@@ -107,7 +106,7 @@
 | **Total Commits** | ![Commits](https://img.shields.io/github/commit-activity/y/girish-inc/girish-inc?color=FFD700&style=flat-square) | 🔥 Active Developer | ✅ |
 | **Total Stars** | ![Stars](https://img.shields.io/github/stars/girish-inc?color=FFD700&style=flat-square) | ⭐ Community Recognition | ✅ |
 | **Total Forks** | ![Forks](https://img.shields.io/github/forks/girish-inc/Student-database-project?color=FFD700&style=flat-square) | 🍴 Code Sharing | ✅ |
-| **Profile Views** | ![Views](https://komarev.com/ghpvc/?username=girish-inc&color=gold&style=flat-square) | 👀 Visibility | ✅ |
+| **Profile Views** | ![Views](https://komarev.com/ghpvc/?username=girish-inc&style=flat-square&color=gold) | 👀 Visibility | ✅ |
 
 </div>
 
